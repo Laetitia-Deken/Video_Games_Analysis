@@ -1,6 +1,6 @@
 # EDA - Video Games Analysis
 
-*Video games popularity, Sales and Scores By 3rd - 9th Generation (July 2024)*
+*Video Pames Popularity, Sales and Scores For Each Generation (carried out in July 2024)*
 
 ![Video Games Heroes](video_games_heroes.jpeg "Video Games Heroes")
 

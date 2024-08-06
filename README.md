@@ -50,4 +50,37 @@ Full text here : https://www.vgchartz.com/methodology.php
 
 - Last_update : Last update.
 
+## Content
+
+- 14 columns
+- 64 016 rows
+
+## Overview
+
+Welcome to my Video Games Project! 
+
+The purpose of this analysis is to reveal which games are the most popular, the most sales.
+
+The aim of this analysis is to reveal which games are the most popular, the best-selling and the best-rated, by generation (3rd - 9th).
+
+## Project highlights
+
+📌 **Data Preparation:** Rigorously cleaned and prepared the dataset, ensuring data quality and integrity for robust analysis.
+
+📌 **Initial Exploration:** Engaged in initial data exploration during EDA to gain a deep understanding of variables and distributions.
+
+📌 **Data Cleaning:** Employed advanced data cleaning techniques to handle missing values, outliers, and inconsistencies, ensuring accuracy in analysis.
+
+📌 **Data Visualization:** Utilized Matplotlib and Seaborn to create compelling visualizations, revealing trends in this dataset.
+
+📌 **Meaningful Conclusions:** Derived insights to shed light on artist popularity, scores, sales and correlations between variables.
+
+## Insights
+
+Here are the 20 best-selling games according to this dataset:
+
+![Top 20 Best-Selling Games](the_20_most_selling_games.png "Top 20 Best-Selling Games (in millions)")
+
+Note the absence of games like Wii Sports, which I thought would appear in this ranking. Stange...
+
 

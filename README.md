@@ -10,7 +10,7 @@ Link to the Dataset : https://www.vgchartz.com
 
 Source : https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024?resource=download
 
-/!\/!\/!\ Warning /!\/!\/!\
+/!\ Warning /!\
 
 Pay attention to the methodology for collecting data : https://www.vgchartz.com/methodology.php
 
@@ -82,5 +82,26 @@ Here are the 20 best-selling games according to this dataset:
 ![Top 20 Best-Selling Games](the_20_most_selling_games.png "Top 20 Best-Selling Games (in millions)")
 
 Note the absence of games like Wii Sports, which I thought would appear in this ranking. Stange...
+
+📌 By Genre :
+
+- Misc is the genre with the most games released (9304)
+- Sports (1187 millions) and Action (1125 millions) are the genre with the most sales
+- Sandbox is the genre with the best critic score (9,20)
+
+📌 By Publisher :
+
+- The vast majority of publishers are unknown (8842!). Sega (2207) and Ubisoft (1663) are 2nd and 3rd
+- Activision (722 millions) and EA (644 millions) are the publishers with the most sales. They are very big in this industry.
+- Toby Fox *(Undertale)* is the publisher with the best critic score (9,70)
+ 
+📌 By Region :
+
+- There are four regions in this dataset.
+
+- Sandbox is the genre with the most sales, all regions combined
+- Genre Preferences Across Regions:
+
+![Genre Preferences Across Regions](genre_preferences_region.png "Genre Preferences Across Regions")
 
 

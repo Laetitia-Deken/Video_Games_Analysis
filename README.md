@@ -14,7 +14,7 @@ Source : https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024?resourc
 
 Pay attention to the methodology for collecting data : https://www.vgchartz.com/methodology.php
 
-"Since the end of 2018 VGChartz no longer produces estimates for software sales. This is because the high digital market share for software was making it both more difficult to produce reliable retail estimates and also making those estimates increasingly unrepresentative of the wider performance of the games in question. As a result, on the software front we now only record official shipment/sales data, where such data is made available by developers and publishers. The legacy data remains on the site for those who are interested in browsing through it."
+*"Since the end of 2018, VGChartz no longer produces estimates for software sales. This is because the high digital market share for software was making it both more difficult to produce reliable retail estimates and also making those estimates increasingly unrepresentative of the wider performance of the games in question. As a result, on the software front we now only record official shipment/sales data, where such data is made available by developers and publishers. The legacy data remains on the site for those who are interested in browsing through it."*
 
 Full text here : https://www.vgchartz.com/methodology.php
 

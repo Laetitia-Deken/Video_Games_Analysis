@@ -23,31 +23,18 @@ Full text here : https://www.vgchartz.com/methodology.php
 14 columns :
 
 - img - Boxart of the game
-
 - Title - The games name
-
 - Console - Platform of the games release (i.e. PC, PS5, NS, etc.)
-
 - Genre - Genre of the game
-
 - Publisher - Publisher of the game
-
 - Developer - Developer of the game
-
 - Critic_score - Critic score of the game
-
 - Total_sales - Total worldwide sales
-
 - NA_Sales - Sales in North America (in millions)
-
 - Pal_Sales - Sales in Europe (in millions)
-
 - JP_Sales - Sales in Japan (in millions)
-
 - Other_Sales - Sales in the rest of the world (in millions)
-
 - Release_date : Release date of the game
-
 - Last_update : Last update.
 
 ## Content
@@ -107,7 +94,7 @@ Note the absence of games like Wii Sports, which I thought would appear in this 
 📌 By Console :
 
 - PC (12617) and PS2 (3565) are the consoles with the most games released. But is the PC really a console? The question can be asked... ;-)
-- The best-selling consoles is PS2. Note: Playstation consoles are well placed in this ranking.
+- The best-selling console is PS2. Note: Playstation consoles are well placed in this ranking.
 - Game Boy Color is the console with the best critic score (9,10).
 
 📌 By Developer :

@@ -104,4 +104,23 @@ Note the absence of games like Wii Sports, which I thought would appear in this 
 
 ![Genre Preferences Across Regions](genre_preferences_region.png "Genre Preferences Across Regions")
 
+📌 By Console :
 
+- PC (12617) and PS2 (3565) are the consoles with the most games released. But is the PC really a console? The question can be asked... ;-)
+- The best-selling consoles is PS2. Note: Playstation consoles are well placed in this ranking.
+- Game Boy Color is the console with the best critic score (9,10).
+
+📌 By Developer :
+
+- Most of the game developers in this dataset are unfortunately unknown. Konami (976) and Sega (915) are 2nd and 3rd.
+- EA (Electronic Arts) is the developer with the most sales. FIFA is surely one of the reasons...
+- Mojang AB, VGChartz and Starfire Studios have all the best critical score (10). Rockstar (9,8) is 2nd.
+
+📌 By Year :
+
+- 2008 is the year with the most sales (538,11 millions)!
+- 2009 and 2010 are the years with the most game releases.
+
+📌 By Month :
+
+- October (1325 millions) and November (1490 millions) are the months with the most sales, all years combined. These are the two months that see the biggest new releases every year. Christmas is close...
